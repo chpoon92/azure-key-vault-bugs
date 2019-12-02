@@ -1,0 +1,7 @@
+azure:
+  key-vault:
+    endpoint:
+    tenant-id:
+    client-id:
+    client-secret:
+    key-name:
